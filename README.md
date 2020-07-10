@@ -1,4 +1,4 @@
-# react-adminlte
+# react-architectUI
 Transformando o template adminLte com ReactJs e BoostrapReact
 
 ## Sobre
