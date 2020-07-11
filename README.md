@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+=======
+# react-architectUI
+Transformando o template adminLte com ReactJs e BoostrapReact
+>>>>>>> 7c1660941e23c11324448f20b48feffdd95d48ea
 
 ## Available Scripts
 
